@@ -46,7 +46,7 @@ blocks:
         text: >-
           Edit global theme configuration with Tina. Change your theme's primary
           color, font, or icon set.
-    color: primary
+    color: default
     _template: features
   - quote: Don't try to be different...
     author: ... own the fact that you already are.
