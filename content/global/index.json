@@ -5,11 +5,11 @@
       "style": "float",
       "name": "tina"
     },
-    "color": "default",
+    "color": "primary",
     "nav": [
       {
         "href": "",
-        "label": "Home"
+        "label": "¯\\_(ツ)_/¯"
       },
       {
         "href": "about",
