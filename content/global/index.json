@@ -5,15 +5,11 @@
       "style": "float",
       "name": "tina"
     },
-    "color": "primary",
+    "color": "default",
     "nav": [
       {
         "href": "",
         "label": "¯\\_(ツ)_/¯"
-      },
-      {
-        "href": "about",
-        "label": "٩(｡•́‿•̀｡)۶"
       },
       {
         "href": "posts",
