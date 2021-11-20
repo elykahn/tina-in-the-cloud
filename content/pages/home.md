@@ -48,5 +48,9 @@ blocks:
           color, font, or icon set.
     color: tint
     _template: features
+  - quote: Don't try to be different...
+    author: ... own the fact that you already are.
+    color: default
+    _template: testimonial
 ---
 
