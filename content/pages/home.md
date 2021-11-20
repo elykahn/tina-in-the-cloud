@@ -1,7 +1,7 @@
 ---
 blocks:
   - tagline: ''
-    headline: tina in the cloud
+    headline: Landing with My Head in the Cloud
     text: >
       This project is set up to show you the basics of working with Tina. You're
       looking at the landing page, which pulls content from
@@ -21,7 +21,7 @@ blocks:
       src: >-
         http://res.cloudinary.com/ely-io/image/upload/v1575113491/illlustrations.co/svg/day65-city-road.svg
       alt: City Road
-    color: default
+    color: tint
     _template: hero
   - items:
       - icon:
