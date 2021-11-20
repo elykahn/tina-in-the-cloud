@@ -28,10 +28,10 @@ blocks:
           color: red
           style: float
           name: code
-        title: Amazing Feature
+        title: Developing
         text: >-
-          Aliquam blandit felis rhoncus, eleifend ipsum in, condimentum nibh.
-          Praesent ac faucibus risus, eu lacinia enim.
+          Writing all kinds of code that means so much to a few people and a lot
+          more computers and non-living digital products.
       - icon:
           color: primary
           style: float
@@ -46,7 +46,7 @@ blocks:
         text: >-
           Edit global theme configuration with Tina. Change your theme's primary
           color, font, or icon set.
-    color: tint
+    color: primary
     _template: features
   - quote: Don't try to be different...
     author: ... own the fact that you already are.
