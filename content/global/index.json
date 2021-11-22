@@ -27,8 +27,8 @@
     }
   },
   "theme": {
-    "color": "teal",
-    "font": "nunito",
+    "color": "blue",
+    "font": "sans",
     "icon": "boxicon",
     "darkMode": "system"
   }
