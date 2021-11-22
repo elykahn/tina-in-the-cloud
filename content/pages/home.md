@@ -1,7 +1,7 @@
 ---
 blocks:
-  - tagline: ''
-    headline: Landing with My Head in the Cloud
+  - tagline: heroic high-flying just for the sake of fun
+    headline: head in the cloud
     text: >
       This project is set up to show you the basics of working with Tina. You're
       looking at the landing page, which pulls content from
@@ -9,9 +9,9 @@ blocks:
       them all together in `pages/[filename].tsx`, all based on a schema defined
       in `.tina/schema.ts`.
     actions:
-      - label: Get to Know
+      - label: word up (blog)
         type: button
-        icon: true
+        icon: false
         link: /posts
       - label: Read Blog
         type: link
