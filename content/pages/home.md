@@ -2,12 +2,12 @@
 blocks:
   - tagline: heroic high-flying just for the sake of fun
     headline: head in the cloud
-    text: >
-      This project is set up to show you the basics of working with Tina. You're
-      looking at the landing page, which pulls content from
-      `content/pages/home.md`, components from `components/blocks`, and puts
-      them all together in `pages/[filename].tsx`, all based on a schema defined
-      in `.tina/schema.ts`.
+    text: |-
+      * This project is set up to show you the basics of working with Tina. 
+      * You're looking at the landing page, 
+        * which pulls content from content/pages/home.md, 
+        * components from components/blocks, and 
+        * puts them all together in pages/\[filename\].tsx, all based on a schema defined in .tina/schema.ts.
     actions:
       - label: word up (blog)
         type: button
@@ -21,7 +21,7 @@ blocks:
       src: >-
         http://res.cloudinary.com/ely-io/image/upload/v1575113491/illlustrations.co/svg/day65-city-road.svg
       alt: City Road
-    color: tint
+    color: default
     _template: hero
   - items:
       - icon:
