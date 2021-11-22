@@ -13,8 +13,8 @@ blocks:
         type: button
         icon: false
         link: /posts
-      - label: Read Blog
-        type: link
+      - label: keep me posted
+        type: button
         icon: false
         link: /posts
     image:
