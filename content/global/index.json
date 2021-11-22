@@ -2,7 +2,7 @@
   "header": {
     "icon": {
       "color": "blue",
-      "style": "float",
+      "style": "circle",
       "name": "tina"
     },
     "color": "default",
