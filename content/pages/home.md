@@ -50,7 +50,7 @@ blocks:
     _template: features
   - quote: Don't try to be different...
     author: ... own the fact that you already are.
-    color: default
+    color: tint
     _template: testimonial
 ---
 
