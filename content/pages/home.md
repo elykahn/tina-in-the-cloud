@@ -1,17 +1,18 @@
 ---
 blocks:
-  - tagline: heroic high-flying just for the sake of fun
-    headline: head in the cloud
-    text: |-
-      * This project is set up to show you the basics of working with Tina. 
-      * You're looking at the landing page, 
-        * which pulls content from content/pages/home.md, 
-        * components from components/blocks, and 
+  - tagline: oh for fuck's sake
+    headline: headroom
+    text: >-
+      * Starter to make it quick and easy to get a new project idea up and
+      running
+
+      * Landing Page pulls content from content/pages/home.md,
+        * components from components/blocks, and
         * puts them all together in pages/\[filename\].tsx, all based on a schema defined in .tina/schema.ts.
     actions:
-      - label: word up (blog)
-        type: button
-        icon: false
+      - label: Functional Verb
+        type: link
+        icon: true
         link: /posts
       - label: keep me posted
         type: button
