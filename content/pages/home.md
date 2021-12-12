@@ -26,9 +26,9 @@ blocks:
     _template: hero
   - items:
       - icon:
-          color: ''
+          color: teal
           style: float
-          name: ''
+          name: aperture
         title: Here's Another Feature
         text: >-
           This is where you might talk about the feature, if this wasn't just
