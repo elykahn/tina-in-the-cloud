@@ -29,10 +29,8 @@ blocks:
           color: teal
           style: float
           name: aperture
-        title: Here's Another Feature
-        text: >-
-          This is where you might talk about the feature, if this wasn't just
-          filler text.
+        title: Shoot In Style
+        text: Describe one function to prototype here.
       - icon:
           color: red
           style: float
