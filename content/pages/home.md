@@ -32,6 +32,12 @@ blocks:
         title: Shoot In Style
         text: Describe one function to prototype here.
       - icon:
+          color: orange
+          style: float
+          name: cloud
+        title: Cloud Feature
+        text: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices.
+      - icon:
           color: blue
           style: float
           name: code
@@ -39,12 +45,6 @@ blocks:
         text: >-
           Writing all kinds of code that means so much to a few people and a lot
           more computers and non-living digital products.
-      - icon:
-          color: orange
-          style: float
-          name: cloud
-        title: Cloud Feature
-        text: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices.
     color: default
     _template: features
   - quote: Don't try to be different...
