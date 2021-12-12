@@ -40,9 +40,9 @@ blocks:
           Writing all kinds of code that means so much to a few people and a lot
           more computers and non-living digital products.
       - icon:
-          color: primary
+          color: orange
           style: float
-          name: like
+          name: cloud
         title: This Is a Feature
         text: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices.
     color: default
