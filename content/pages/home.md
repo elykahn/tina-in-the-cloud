@@ -32,7 +32,7 @@ blocks:
         title: Shoot In Style
         text: Describe one function to prototype here.
       - icon:
-          color: red
+          color: blue
           style: float
           name: code
         title: Under Dev
