@@ -43,7 +43,7 @@ blocks:
           color: orange
           style: float
           name: cloud
-        title: This Is a Feature
+        title: Cloud Feature
         text: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices.
     color: default
     _template: features
