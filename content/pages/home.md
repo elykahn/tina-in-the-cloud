@@ -14,9 +14,9 @@ blocks:
         type: link
         icon: true
         link: /posts
-      - label: keep me posted
-        type: button
-        icon: false
+      - label: Posts(blog)
+        type: link
+        icon: true
         link: /posts
     image:
       src: >-
