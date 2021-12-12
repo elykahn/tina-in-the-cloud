@@ -22,7 +22,7 @@ blocks:
       src: >-
         http://res.cloudinary.com/ely-io/image/upload/v1575113491/illlustrations.co/svg/day65-city-road.svg
       alt: City Road
-    color: default
+    color: tint
     _template: hero
   - items:
       - icon:
