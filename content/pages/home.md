@@ -36,9 +36,9 @@ blocks:
           image and devote himself tirelessly until he has manifested his
           vision. Fuck it’s hot!
       - icon:
-          color: orange
+          color: blue
           style: float
-          name: cloud
+          name: aperture
         title: Cloud Feature
         text: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices.
       - icon:
