@@ -39,8 +39,13 @@ blocks:
           color: blue
           style: float
           name: aperture
-        title: Cloud Feature
-        text: Vestibulum ante ipsum primis in faucibus orci luctus et ultrices.
+        title: Filming Fetish
+        text: >-
+          One of the most common but seldom-discussed sexual stimuli is bringing
+          a camera into the scene and if you have only imagined what it would be
+          like to be a porn star having sex for strangers to watch try it solo
+          or with a partner, close friend or aspiring
+          photographer/videographer. 
       - icon:
           color: blue
           style: float
