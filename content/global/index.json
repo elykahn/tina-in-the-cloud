@@ -8,6 +8,10 @@
     "color": "primary",
     "nav": [
       {
+        "href": "home",
+        "label": "io"
+      },
+      {
         "href": "",
         "label": "c(log)?"
       },
