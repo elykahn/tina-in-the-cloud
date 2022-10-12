@@ -26,11 +26,15 @@ blocks:
     _template: hero
   - items:
       - icon:
-          color: teal
+          color: orange
           style: float
-          name: aperture
-        title: Shoot In Style
-        text: Describe one function to prototype here.
+          name: code
+        title: Sexy Geek Guys
+        text: >-
+          They are more than just smart, they are driven and passionate about
+          their craft and watching a man start with little more than a mental
+          image and devote himself tirelessly until he has manifested his
+          vision. Fuck it’s hot!
       - icon:
           color: orange
           style: float
@@ -45,7 +49,7 @@ blocks:
         text: >-
           Writing all kinds of code that means so much to a few people and a lot
           more computers and non-living digital products.
-    color: default
+    color: tint
     _template: features
   - quote: Don't try to be different...
     author: ... own the fact that you already are.
