@@ -26,12 +26,12 @@
     ]
   },
   "footer": {
-    "color": "default",
+    "color": "primary",
     "social": {
-      "facebook": "Facebook.com",
-      "twitter": "/creativ_ely",
-      "instagram": "/creativ_ely",
-      "github": "/elykahn"
+      "facebook": "",
+      "twitter": "",
+      "instagram": "",
+      "github": ""
     }
   },
   "theme": {
