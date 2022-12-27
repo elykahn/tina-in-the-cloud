@@ -5,11 +5,11 @@
       "style": "float",
       "name": "chat"
     },
-    "color": "primary",
+    "color": "default",
     "nav": [
       {
         "href": "home",
-        "label": "io"
+        "label": "Input"
       },
       {
         "href": "",
