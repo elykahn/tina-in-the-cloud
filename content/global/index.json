@@ -9,6 +9,10 @@
     "nav": [
       {
         "href": "home",
+        "label": "ely"
+      },
+      {
+        "href": "home",
         "label": "Input"
       },
       {
