@@ -2,8 +2,8 @@
   "header": {
     "icon": {
       "color": "teal",
-      "style": "circle",
-      "name": "cloud"
+      "style": "float",
+      "name": "chat"
     },
     "color": "primary",
     "nav": [
